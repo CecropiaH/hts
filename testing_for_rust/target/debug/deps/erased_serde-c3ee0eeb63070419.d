@@ -1,0 +1,12 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\erased_serde-c3ee0eeb63070419.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\macros.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\any.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\de.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\error.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\features_check\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\ser.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\private.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\erased_serde-c3ee0eeb63070419.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\macros.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\any.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\de.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\error.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\features_check\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\ser.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\private.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\macros.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\any.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\de.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\error.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\features_check\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\ser.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\erased-serde-0.3.16\src\private.rs:

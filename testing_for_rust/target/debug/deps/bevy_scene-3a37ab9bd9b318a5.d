@@ -1,0 +1,11 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\bevy_scene-3a37ab9bd9b318a5.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\command.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\dynamic_scene.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene_loader.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene_spawner.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\serde.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\bevy_scene-3a37ab9bd9b318a5.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\command.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\dynamic_scene.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene_loader.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene_spawner.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\serde.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\command.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\dynamic_scene.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene_loader.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\scene_spawner.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_scene-0.5.0\src\serde.rs:

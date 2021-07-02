@@ -1,0 +1,10 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\inplace_it-385feea985f6b120.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\uninitialized_slice_memory_guard.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\slice_memory_guard.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\fixed_array.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\alloc_array.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\inplace_it-385feea985f6b120.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\uninitialized_slice_memory_guard.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\slice_memory_guard.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\fixed_array.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\alloc_array.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\uninitialized_slice_memory_guard.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\guards\slice_memory_guard.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\fixed_array.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\inplace_it-0.3.3\src\alloc_array.rs:

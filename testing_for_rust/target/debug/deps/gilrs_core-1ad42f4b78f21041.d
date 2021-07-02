@@ -1,0 +1,10 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\gilrs_core-1ad42f4b78f21041.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\ff.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\gamepad.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\utils.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\gilrs_core-1ad42f4b78f21041.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\ff.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\gamepad.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\utils.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\ff.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\platform\windows\gamepad.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\gilrs-core-0.3.1\src\utils.rs:

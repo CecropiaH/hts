@@ -1,0 +1,12 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\bevy_input-0b3b196a6d93e3ab.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\axis.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\gamepad.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\input.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\keyboard.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\mouse.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\system.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\touch.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\bevy_input-0b3b196a6d93e3ab.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\axis.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\gamepad.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\input.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\keyboard.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\mouse.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\system.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\touch.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\axis.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\gamepad.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\input.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\keyboard.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\mouse.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\system.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_input-0.5.0\src\touch.rs:

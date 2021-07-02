@@ -1,0 +1,15 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\ron-bf279e57880a6d8c.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\id.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\tag.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\value.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\ser\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\ser\value.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\error.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\value.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\extensions.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\parse.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\ron-bf279e57880a6d8c.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\id.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\tag.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\value.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\ser\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\ser\value.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\error.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\value.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\extensions.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\parse.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\id.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\tag.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\de\value.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\ser\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\ser\value.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\error.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\value.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\extensions.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.4\src\parse.rs:

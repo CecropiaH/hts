@@ -1,0 +1,12 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\thunderdome-ee599d43747c2b8e.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\arena.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\drain.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\free_pointer.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\generation.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\into_iter.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter_mut.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\thunderdome-ee599d43747c2b8e.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\arena.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\drain.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\free_pointer.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\generation.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\into_iter.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter_mut.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\arena.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\drain.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\free_pointer.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\generation.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\into_iter.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\thunderdome-0.3.0\src\iter_mut.rs:

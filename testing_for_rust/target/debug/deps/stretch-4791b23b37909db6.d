@@ -1,0 +1,13 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\stretch-4791b23b37909db6.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\geometry.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\node.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\number.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\result.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\style.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\algo.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\forest.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\id.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\stretch-4791b23b37909db6.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\geometry.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\node.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\number.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\result.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\style.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\algo.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\forest.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\id.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\geometry.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\node.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\number.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\result.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\style.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\algo.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\forest.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\stretch-0.3.2\src\id.rs:

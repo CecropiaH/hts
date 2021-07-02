@@ -1,0 +1,12 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\spirv_cross-1d6e9818c54dfa1c.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\compiler.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\glsl.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\hlsl.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\msl.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\spirv.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\ptr_util.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\bindings_native.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\spirv_cross-1d6e9818c54dfa1c.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\compiler.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\glsl.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\hlsl.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\msl.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\spirv.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\ptr_util.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\bindings_native.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\compiler.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\glsl.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\hlsl.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\msl.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\spirv.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\ptr_util.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\spirv_cross-0.23.1\src\bindings_native.rs:

@@ -1,0 +1,12 @@
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\bevy_tasks-b4dcc1419702cc26.rmeta: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\slice.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\task.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\task_pool.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\usages.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\countdown_event.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\iter\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\iter\adapters.rs
+
+c:\Users\brian\Downloads\Coding\hts\testing_for_rust\target\debug\deps\bevy_tasks-b4dcc1419702cc26.d: C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\lib.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\slice.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\task.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\task_pool.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\usages.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\countdown_event.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\iter\mod.rs C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\iter\adapters.rs
+
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\slice.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\task.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\task_pool.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\usages.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\countdown_event.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\iter\mod.rs:
+C:\Users\brian\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_tasks-0.5.0\src\iter\adapters.rs:
